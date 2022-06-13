@@ -1,0 +1,26 @@
+.navegador{
+    display: flexbox;
+
+
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-flex;
+    padding: 2px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgb(85, 125, 226);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover{
+    background-color: aqua;
+    cursor: pointer;
+}

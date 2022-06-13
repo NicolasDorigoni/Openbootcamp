@@ -1,0 +1,24 @@
+
+
+nav ul li a{
+    color: red;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 1em;
+    align-content: center;
+    
+}
+nav li{
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    border: solid 1px;
+    align-items: flex-start;
+    
+}
+
+nav ul{
+    background-color: blue;
+    width:auto
+}
